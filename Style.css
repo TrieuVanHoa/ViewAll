@@ -1,0 +1,68 @@
+﻿*{
+}
+.ViewAll{
+
+ padding-inline-start:440px;
+ padding-top:30px;
+}
+.search {
+    border-radius: 20px;
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+}
+.ViewAll a {
+    font-size: 18px;
+    padding: 20px;
+    font-family: Arial;
+}
+.TenDt{
+    font-size:19px;
+    font-family:Arial;
+}
+.Gia {
+    font-family: Arial;
+    font-size: 15px;
+}
+.Cpu {
+    font-size: 13px;
+    font-family: Arial;
+    color: grey;
+}
+.ManHinh {
+    font-size: 13px;
+    font-family: Arial;
+    color: grey;
+}
+.AnhSS {
+    justify-content: center;
+    justify-items: center;
+}
+.SamSung {
+    width: 80%;
+    justify-content: center;
+    margin: auto;
+    border-spacing: 40px;
+    display: flex;
+    margin: auto;
+}
+.LogoDT {
+    width: 80%;
+    border-spacing: 40px;
+    display:flex;
+    margin:auto;
+    justify-content:center;
+}
+.SamSung tr td {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    width: 250px;
+    height: 350px;
+}
+.UuTien {
+    padding-inline-start: 440px;
+    float:left;
+}
+.LogoDT tr {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
